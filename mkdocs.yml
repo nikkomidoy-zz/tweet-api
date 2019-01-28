@@ -1,0 +1,10 @@
+site_name: Twitter API
+site_description: This is a test API for collecting Twitter data.
+repo_url: https://github.com/nikkomidoy/tweet-api
+site_dir: site
+copyright: Copyright &copy; 2019, <a href="https://github.com/nikkomidoy">nikkomidoy</a>.
+dev_addr: 0.0.0.0:8004
+theme:
+    name: 'readthedocs'
+nav:
+  - Home: 'index.md'
